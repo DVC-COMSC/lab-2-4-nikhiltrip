@@ -2,8 +2,7 @@ def main():
     ##################################################
     # Comlete your code here
     ##################################################
-    pass
-    original_str="Python Programming"
+    original_str= "Python Programming"
     sub1=original_str[0:6]
     sub2=original_str[7:len(original_str)]
     merge_str=sub1+sub2
